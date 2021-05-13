@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Preethi G</h1>
 
 <h3 align="center">A young-dumb 🤓 Web Developer | Data Analyst | Brisk-Learner from India </h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=preethi4848 alt=preethi/> </p>
 
 <p align="left"> <a href="https://twitter.com/Preethi_G_4848" target="blank"><img src="https://img.shields.io/twitter/follow/Preethi_G_4848?logo=twitter&style=for-the-badge" alt="preethi" /></a> </p>
 
