@@ -3,7 +3,7 @@
 <h3 align="center">A young-dumb 🤓 Web Developer | Data Analyst | Brisk-Learner from India 🇮🇳</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
 
-<p align="left"> <a href="https://twitter.com/preethi-g-4848" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldkjain?logo=twitter&style=for-the-badge" alt="rahuldkjain" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Preethi_G_4848" target="blank"><img src="https://img.shields.io/twitter/follow/Preethi_G_4848?logo=twitter&style=for-the-badge" alt="preethi" /></a> </p>
 
 
 - 🔭 I’m currently working on [COVID-19 Vaccine Management System](https://github.com/#)
