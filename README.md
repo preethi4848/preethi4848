@@ -1,8 +1,4 @@
-
-
-
-
-
+<img src="https://github.com/img.png" height="240" width="480">
 <h1 align="center">Hi 👋, I'm Preethi G</h1>
 
 <h3 align="center">A young-dumb 🤓 Web Developer | Data Analyst | Brisk-Learner from India </h3>
