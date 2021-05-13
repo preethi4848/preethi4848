@@ -1,3 +1,8 @@
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Preethi G</h1>
 
 <h3 align="center">A young-dumb 🤓 Web Developer | Data Analyst | Brisk-Learner from India </h3>
@@ -15,7 +20,7 @@
 
 - 📫 Reach me at **preethi4848@gmail.com**
 
-- 👨‍💻 All of my projects are available at [Preethi-G](https://preethi4848.github.io/My-Porfolio/)
+- 👨‍💻 All of my projects are available at [Preethi G](https://preethi4848.github.io/My-Porfolio/)
 
 - ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
