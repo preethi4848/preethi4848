@@ -1,4 +1,4 @@
-<img src="https://github.com/img.png" height="240" width="480">
+<img src="https://github.com/preethi4848/preethi4848/blob/main/img.png">
 <h1 align="center">Hi 👋, I'm Preethi G</h1>
 
 <h3 align="center">A young-dumb 🤓 Web Developer | Data Analyst | Brisk-Learner from India </h3>
