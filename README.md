@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [COVID-19 Vaccine Management System](https://github.com/preethi4848/COVID-19-Vaccine-Management-System)
 
-- 👯 I’m looking to collaborate on [MDX](https://github.com/mdx-js/mdx)
+- 👯  I’m looking to collaborate on [MDX](https://github.com/mdx-js/mdx)
 
-- 🤔 I’m looking for help with [#](https://github.com/#)
+- 🤔 I’m looking for help with [CovidTest Drone Project](https://github.com/#)
 
 - 💬 Ask me about **Web Development, DBMS, Python**
 
