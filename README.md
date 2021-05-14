@@ -6,17 +6,17 @@
 <p align="left"> <a href="https://twitter.com/Preethi_G_4848" target="blank"><img src="https://img.shields.io/twitter/follow/Preethi_G_4848?logo=twitter&style=for-the-badge" alt="preethi" /></a> </p>
 
 
-- 🔭 I’m currently working on [COVID-19 Vaccine Management System](https://github.com/#)
+- 🔭 I’m currently working on [COVID-19 Vaccine Management System](https://github.com/preethi4848/COVID-19-Vaccine-Management-System)
 
 - 👯 I’m looking to collaborate on [MDX](https://github.com/mdx-js/mdx)
 
 - 🤔 I’m looking for help with [#](https://github.com/#)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development, DBMS, Python**
 
-- 📫 Reach me at **preethi4848@gmail.com**
+- 📫 Reach me at [preethi4848@gmail.com](mailto:preethi4848@gmail.com)
 
-- 👨‍💻 All of my projects are available at [Preethi G](https://preethi4848.github.io/My-Porfolio/)
+- 👨‍💻 Check my Portfolio [Preethi G](https://preethi4848.github.io/My-Porfolio/)
 
 - ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
