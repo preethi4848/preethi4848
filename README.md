@@ -10,7 +10,7 @@
 
 - 👯  I’m looking to collaborate on [MDX](https://github.com/mdx-js/mdx)
 
-- 🤔 I’m looking for help with [CovidTest Drone Project](https://github.com/#)
+- 🤔 I’m looking for help with [COVID-19 Test Drone Project](https://github.com/#)
 
 - 💬 Ask me about **Web Development, DBMS, Python**
 
