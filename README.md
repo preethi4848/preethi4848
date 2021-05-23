@@ -1,8 +1,6 @@
 <img src="https://github.com/preethi4848/preethi4848/blob/main/img.png">
 <h1 align="center">Hi 👋, I'm Preethi G</h1>
 
-[Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Preethi G]
-
 <h3 align="center">A Young-Dumb 🤓 Web Developer | Data Analyst | Brisk-Learner from India </h3>
 
 <p align="left"> <a href="https://twitter.com/Preethi_G_4848" target="blank"><img src="https://img.shields.io/twitter/follow/Preethi_G_4848?logo=twitter&style=for-the-badge" alt="preethi" /></a> </p>
