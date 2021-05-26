@@ -21,17 +21,25 @@
 
 I'm an engineering student and a to-be developer 👨‍💻 from India who is passionate about Machine Learning, Python Development and opensource. I'm also a self procliamed digital marketer and internet surfer 🏄‍♂️. 
 
-
+### About me :eyes:
 
 - 🔭 I’m currently working on [COVID-19 Vaccine Management System](https://github.com/preethi4848/COVID-19-Vaccine-Management-System)
 
-- 👯  I’m looking to collaborate on [MDX](https://github.com/mdx-js/mdx)
+- 👯  I’m looking to collaborate on [MDX](https://github.com/mdx-js/mdx) & with new project ideas
+
+- 🌱 I’m currently learning [Android Development](https://developer.android.com/)
+
+- 🥅 2021 Goals: Contribute more to Open Source projects
+
+- 😄 Pronouns: She/Her
+
+- ⚡ Languages: Python3, C, C++
 
 - 🤔 I’m looking for help with [COVID-19 Test Drone Project](https://github.com/#)
 
 - 💬 Ask me about **Web Development, DBMS, Python**
 
-- 📫 Reach me at [preethi4848@gmail.com](mailto:preethi4848@gmail.com)
+- 📫 How to reach me: Links are given above 🔝
 
 - 👨‍💻 Check my Portfolio [Preethi G](https://preethi4848.github.io/My-Porfolio/)
 
