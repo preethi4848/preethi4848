@@ -11,7 +11,13 @@
                     
 <h3 align="center">A Young-Dumb 🤓 Web Developer | Data Analyst | Brisk-Learner from India </h3>
 
-<p align="left"> <a href="https://twitter.com/Preethi_G_4848" target="blank"><img src="https://img.shields.io/twitter/follow/Preethi_G_4848?logo=twitter&style=for-the-badge" alt="preethi" /></a> </p>
+<!--<p align="left"> <a href="https://twitter.com/Preethi_G_4848" target="blank"><img src="https://img.shields.io/twitter/follow/Preethi_G_4848?logo=twitter&style=for-the-badge" alt="preethi" /></a> </p>-->
+
+[![Twitter Badge](http://img.shields.io/badge/-@imanishbarnwal-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/imanishbarnwal)](https://twitter.com/imanishbarnwal) [![Linkedin Badge](https://img.shields.io/badge/-Manish_Kumar_Barnwal-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/imanishbarnwal)](https://www.linkedin.com/in/imanishbarnwal)
+[![Gmail Badge](https://img.shields.io/badge/-hello@manishbarnwal.tech-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:hello@manishbarnwal.tech)](mailto:hello@manishbarnwal.tech) [![Facebook Badge](https://img.shields.io/badge/-Manish_Kumar_Barnwal-4267b2?style=social&&logo=Facebook&logoColor=blue&link=https://www.facebook.com/imanishbarnwal)](https://www.facebook.com/imanishbarnwal) [![Instagram Badge](https://img.shields.io/badge/-@imanishbarnwal-833ab4?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/imanishbarnwal)](https://www.instagram.com/imanishbarnwal) [![website](https://img.shields.io/badge/Website-manishbarnwal.tech-2648ff?style=flat-square&logo=google-chrome)](https://manishbarnwal.tech)
+
+I'm an engineering student and a to-be developer 👨‍💻 from India who is passionate about Machine Learning, Python Development and opensource. I'm also a self procliamed digital marketer and internet surfer 🏄‍♂️. 
+
 
 
 - 🔭 I’m currently working on [COVID-19 Vaccine Management System](https://github.com/preethi4848/COVID-19-Vaccine-Management-System)
