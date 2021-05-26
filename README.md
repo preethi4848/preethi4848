@@ -44,7 +44,7 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 
 - 👨‍💻 Check my Portfolio [Preethi G](https://preethi4848.github.io/My-Porfolio/)
 
-- ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
+- ⚡ Fun fact **A day without laughter is a day wasted!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
