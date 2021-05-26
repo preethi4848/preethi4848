@@ -14,7 +14,7 @@
 <!--<p align="left"> <a href="https://twitter.com/Preethi_G_4848" target="blank"><img src="https://img.shields.io/twitter/follow/Preethi_G_4848?logo=twitter&style=for-the-badge" alt="preethi" /></a> </p>-->
 
 [![Twitter Badge](http://img.shields.io/badge/-@Preethi_G_4848-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/Preethi_G_4848)](https://twitter.com/Preethi_G_4848) 
-[![Linkedin Badge](https://img.shields.io/badge/-@PreethiG_4848-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/preethig-4848)](https://www.linkedin.com/in/preethig-4848)
+[![Linkedin Badge](https://img.shields.io/badge/-@Preethi_G_4848-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/preethig-4848)](https://www.linkedin.com/in/preethig-4848)
 [![Gmail Badge](https://img.shields.io/badge/-Preethi4848@gmail.om-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:preethi4848@gmail.com)](mailto:preethi4848@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-@Preethi.G.4848-4267b2?style=social&&logo=Facebook&logoColor=blue&link=https://www.facebook.com/Preethi.G.4848)](https://www.facebook.com/Preethi.G.4848) 
 [![Instagram Badge](https://img.shields.io/badge/-@Preethi__._-833ab4?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/preethi__._)](https://www.instagram.com/preethi__._) 
  [![website](https://img.shields.io/badge/Website-Preethi.G-2648ff?style=flat-square&logo=google-chrome)](https://preethi4848.github.io/My-Porfolio/)
