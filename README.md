@@ -9,7 +9,7 @@
 
 <h1 class="mb-0" ><a target="_top" href="#" ><img src="https://blog.flamingtext.com/blog/2020/10/13/flamingtext_com_1602602138_825462897.gif" border="0" alt="Logo Design by Preethi" title="Logo Design by Preethi"></a>
                        <!-- PREETHI
-                        <span class="text-primary">G</span>-->
+                        <span class="text-primary">G</span>
                     </h1>-->
                     
 <h3 align="center">A Young-Dumb 🤓 Web Developer | Data Analyst | Brisk-Learner from India </h3>
