@@ -1,5 +1,6 @@
-<img src="https://github.com/preethi4848/preethi4848/blob/main/img.png">
 
+<img src="https://github.com/preethi4848/preethi4848/blob/main/img.png">
+<br align="center">
 ![Hello](Hello.gif) 
 
 <!--<h1 align="center">Hi 👋, I'm Preethi G</h1>-->
@@ -18,7 +19,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Preethi4848@gmail.om-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:preethi4848@gmail.com)](mailto:preethi4848@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-@Preethi.G.4848-4267b2?style=social&&logo=Facebook&logoColor=blue&link=https://www.facebook.com/Preethi.G.4848)](https://www.facebook.com/Preethi.G.4848) 
 [![Instagram Badge](https://img.shields.io/badge/-@Preethi__._-833ab4?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/preethi__._)](https://www.instagram.com/preethi__._) 
  [![website](https://img.shields.io/badge/Website-Preethi.G-2648ff?style=flat-square&logo=google-chrome)](https://preethi4848.github.io/My-Porfolio/)
-
+</br>
 I'm an engineering student and a to-be developer 👨‍💻 from India who is passionate about Machine Learning, Python Development and opensource. I'm also a self procliamed digital marketer and internet surfer 🏄‍♂️. 
 
 ### About me :eyes:
