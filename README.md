@@ -4,7 +4,7 @@
 
 <!--<h1 align="center">Hi 👋, I'm Preethi G</h1>-->
 
-<h1 class="mb-0"><a target="_top" href="#" ><img src="https://blog.flamingtext.com/blog/2020/10/13/flamingtext_com_1602602138_825462897.gif" border="0" alt="Logo Design by Preethi" title="Logo Design by Preethi"></a>
+<h1 class="mb-0" align="center"><a target="_top" href="#" ><img src="https://blog.flamingtext.com/blog/2020/10/13/flamingtext_com_1602602138_825462897.gif" border="0" alt="Logo Design by Preethi" title="Logo Design by Preethi"></a>
                        <!-- PREETHI
                         <span class="text-primary">G</span>-->
                     </h1>
