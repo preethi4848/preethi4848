@@ -1,5 +1,5 @@
 
-<img src="https://github.com/preethi4848/preethi4848/blob/main/img.png">
+<!--<img src="https://github.com/preethi4848/preethi4848/blob/main/img.png">-->
 
 <h1 align="center">Hi 👋, I'm Preethi G</h1>
 
