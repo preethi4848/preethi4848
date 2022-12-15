@@ -12,7 +12,7 @@
                         <span class="text-primary">G</span>
                     </h1>-->
                     
-<h3 align="center">A Young-Dumb 🤓 Web Developer | Data Analyst | Brisk-Learner from India </h3>
+<h3 align="center">A Young-Dumb 🤓 Software Developer | Brisk-Learner from India </h3>
 
 <!--<p align="left"> <a href="https://twitter.com/Preethi_G_4848" target="blank"><img src="https://img.shields.io/twitter/follow/Preethi_G_4848?logo=twitter&style=for-the-badge" alt="preethi" /></a> </p>-->
 
@@ -22,29 +22,17 @@
 [![Instagram Badge](https://img.shields.io/badge/-@Preethi__._-833ab4?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/preethi__._)](https://www.instagram.com/preethi__._) 
  [![website](https://img.shields.io/badge/Website-Preethi.G-2648ff?style=flat-square&logo=google-chrome)](https://preethi4848.github.io/My-Porfolio/)
 
-I'm an engineering student and a to-be developer 👨‍💻 from India who is passionate about Machine Learning, Python Development and opensource. I'm also a self procliamed digital marketer and internet surfer 🏄‍♂️. 
+I'm software developer 👨‍💻 from India who is passionate about Python Development and opensource. I'm also a self procliamed internet surfer 🏄‍♂️. 
 
 ### About me :eyes:
 
-- 🔭 I’m currently working on [COVID-19 Vaccine Management System](https://github.com/preethi4848/COVID-19-Vaccine-Management-System)
-
-- 👯  I’m looking to collaborate on [MDX](https://github.com/mdx-js/mdx) & with new project ideas
-
-- 🌱 I’m currently learning [Android Development](https://developer.android.com/)
-
-- 🥅 2021 Goals: Contribute more to Open Source projects
-
 - 😄 Pronouns: She/Her
 
-- ⚡ Languages: Python3, C, C++
-
-- 🤔 I’m looking for help with [COVID-19 Test Drone Project](https://github.com/#)
+- ⚡ Languages: Python3, ASP.NET, React, Angular
 
 - 💬 Ask me about **Web Development, DBMS, Python**
 
 - 📫 How to reach me: Links are given above 🔝
-
-- 👨‍💻 Check my Portfolio [Preethi G](https://preethi4848.github.io/My-Porfolio/)
 
 - ⚡ Fun fact **A day without laughter is a day wasted!**
 
